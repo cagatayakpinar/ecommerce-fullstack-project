@@ -1,6 +1,6 @@
 # client
 
-## Project setup
+## Client setup
 ```
 npm install
 ```
@@ -20,7 +20,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # server
 
-## Project setup
+## Server setup
 ```
 npm install
 ```
@@ -30,13 +30,5 @@ npm install
 npm start
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
