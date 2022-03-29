@@ -18,17 +18,6 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-# server
-
-## Server setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm start
-```
 
 
 
