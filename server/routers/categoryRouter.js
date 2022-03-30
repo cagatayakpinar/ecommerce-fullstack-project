@@ -1,11 +1,9 @@
 import express from 'express';
-
 import PostgresClient from '../config/db.js';
-
 const router = express.Router();
 
 
-// Get - Verileri listelemek için kullanıyoruz.
+// Verileri listelemek için kullanıyoruz.
 
 router.get('/', async (req, res) => {
     try {
