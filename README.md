@@ -33,4 +33,4 @@ npm start
 ```
 # Preview
 
-![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
+![MasterHead](https://i.giphy.com/media/xvhkuAxYLav60x50oF/giphy.webp)
