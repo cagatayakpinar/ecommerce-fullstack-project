@@ -37,3 +37,23 @@ npm start
 
 ![Project2](https://user-images.githubusercontent.com/63678992/160816361-a8d05def-e03a-4f7a-be60-68eb7b558414.gif)
 
+<h1 align="left">Technologies</h1>
+<ul>
+  <li>Front End = Vue.js</li>
+  <li>Front End Framework = Vuetify</li>
+  <li>Back End = Node.js</li>
+  <li>API Server = Server(Express.js), Client(Axios)</li>
+  <li>Loging = Winston</li>
+  <li>Database = PostgreSQL (pg Pool) with Salt crypted</li>
+</ul>  
+<h1 align="left">Future Arrangements</h1>
+<ul>
+  <li>Elastic Search</li>
+  <li>Admin Panel with user autentication. (API's are ready to run. Just only client side needs to be created.)</li>
+  <li>The "Details" section needs to be edited and link redirects made.</li>
+</ul>  
+<h1 align="left">Exceptions</h1>
+<ul>
+  <li>The database could not be added because the database is running locally.</li>
+</ul>  
+
