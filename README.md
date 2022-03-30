@@ -33,5 +33,5 @@ npm start
 ```
 # Preview
 
-![MasterHead](https://media0.giphy.com/media/UZhBjzPM2aImMpUhqn/giphy.gif)
+![Project1](https://user-images.githubusercontent.com/63678992/160815653-7e5cdc9f-7314-4ce8-b8b1-0a72edfeee5c.gif)
 
