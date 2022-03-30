@@ -33,4 +33,4 @@ npm start
 ```
 # Preview
 
-![MasterHead](https://giphy.com/gifs/project-preview-UZhBjzPM2aImMpUhqn)
+![MasterHead](https://i.giphy.com/media/xUPGcxJifn7dEpmqcg/giphy.webp)
