@@ -1,14 +1,9 @@
-//CRUD ve login işlemleri burada yapılacak.
-
 import express from 'express';
 import PostgresClient from '../config/db.js';
 const router = express.Router();
 import logger from '../controller/logger.js'
 
-
-
-
-//Kullanıcı Oluşturma.
+// Kullanıcı Oluşturma.
 router.post('/signup', async (req, res) => {
     try {
         const text = "INSERT INTO users (email, password, fullname) VALUES ($1, crypt($2, gen_salt('bf')), $3) RETURNING *"
@@ -21,8 +16,7 @@ router.post('/signup', async (req, res) => {
     }
 })
 
-
-//Login(Authentication) İşlemi.
+//Login(Authentication) İşlemleri.
 
 router.post('/login', async (req, res) => {
     try {
@@ -42,8 +36,7 @@ router.post('/login', async (req, res) => {
     }
 })
 
-
-//Get users 
+// Kullanıcıları listelemek.
 
 router.get('/getUsers', async (req, res) => {
     try {
@@ -60,8 +53,6 @@ router.get('/getUsers', async (req, res) => {
         return res.status(400).json({ message: error.message })
     }
 })
-
-
 export default router;
 
 
